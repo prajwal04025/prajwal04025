@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CSE student pursuing my Engineering in DSCE!!<br>I am currently learning react.js, python <br>I have interest in learning in Generative AI, ML.<br>In my free time I spend my time playing games!! <br>
+I am a CSE student pursuing my Engineering in DSCE!!<br>I am currently learning react.js, python <br>.
 
 
 ## 🌐 Socials:
