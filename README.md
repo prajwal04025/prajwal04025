@@ -1,5 +1,5 @@
-Hi, I'm Prajwal Kumar Manumala
-I am a CSE student pursuing my Engineering in DSCE!!<br>I am currently learning react.js, python <br>.
+<h1>Hi, I'm Prajwal Kumar Manumala</h1><br>
+I am a CSE student pursuing my Engineering in DSCE!!<br>I am currently learning react.js, python <br>
 
 
 ## 🌐 Socials:
