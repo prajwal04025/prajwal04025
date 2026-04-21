@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi, I'm Prajwal Kumar Manumala
 I am a CSE student pursuing my Engineering in DSCE!!<br>I am currently learning react.js, python <br>.
 
 
